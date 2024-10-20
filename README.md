@@ -1,2 +1,2 @@
-# Industrial
+# industrial
 3rd project
